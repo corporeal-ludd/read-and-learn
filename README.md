@@ -1,7 +1,7 @@
 # read-and-learn
 
 ## Reads
-[Why are we even doing all this](https://terrytao.wordpress.com/2026/10/15/why-are-we-even-doing-all-this/). Starts with a satirical adaptation of [https://www.audioscrape.com/podcast/behind-the-bastards/episode/part-one-martin-niem%C3%B6ller-the-author-of-first-they-came-was-a-murderous-fascist-72400](Martin Niemöller's) first they came.
+[Why are we even doing all this](https://terrytao.wordpress.com/2026/10/15/why-are-we-even-doing-all-this/). Starts with a satirical adaptation of [Martin Niemöller's](https://www.audioscrape.com/podcast/behind-the-bastards/episode/part-one-martin-niem%C3%B6ller-the-author-of-first-they-came-was-a-murderous-fascist-72400) first they came, gets better from then on.
 
 [The Reverse Centaur’s Guide To Life After AI](https://shop.craphound.com/). Working with or for GenAI, you should read this.
 
